@@ -1,6 +1,8 @@
+# lab_03
+# notatki z zajec
+
 import math as m
 
-# na zajęciach
 # 1. skrocone petle
 
 a = [i ** 2 for i in range(10)]
