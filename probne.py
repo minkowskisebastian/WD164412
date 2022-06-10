@@ -5,10 +5,6 @@ import openpyxl
 
 #==========
 
-import numpy as np
-import matplotlib.pyplot as plt
-
-
 x=np.linspace(0.5,10,100)
 y1=np.log(2*x)
 y2=(-4)*x+2
@@ -28,9 +24,6 @@ plt.savefig("zad1.png")
 plt.show()
 
 #==========
-
-import numpy as np
-import matplotlib.pyplot as plt
 
 x=np.array(['A','B','C','D','E'])
 y=np.array([23,66,17,96,24])
